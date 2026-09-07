@@ -1,0 +1,6 @@
+{
+  "name": "Clasty Zoom",
+  "description": "أول تطبيق دروس دعم في الجزائر - Clasty Zoom",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
